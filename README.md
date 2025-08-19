@@ -2,9 +2,9 @@
 
 - 🖥️ Graduanda de Sistemas de Informação (8/8).
 - 💼 Atualmente trabalho como Product Owner na Superintêndencia Estadual de Tecnologia e Comunicação de Rondônia
-- 💻 Estou estudando HTLM, CSS, JS, C#, Java, DataBases e Redes Computacionais. 
+- 💻 Estou estudando JS, C#, Java, e DataBases. 
 - 📫 Você pode me contatar em: bruna.davilla42@gmail.com
-- 💬 Estou em busca de aperfeiçoar meu inglês e aprender espanhol.
+  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruna-davila17)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ctrlatlb?igsh=OXltc3dsZGExcHQ1)
