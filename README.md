@@ -1,7 +1,7 @@
 # ✨ Sobre mim ✨
 
-- 🖥️ Graduanda de Sistemas de Informação (5/8).
-- 💼 Atualmente trabalho como terceirizada na Defensoria Pública da União -RO, mas não estou atuando na minha área de interesse.
+- 🖥️ Graduanda de Sistemas de Informação (8/8).
+- 💼 Atualmente trabalho como Product Owner na Superintêndencia Estadual de Tecnologia e Comunicação de Rondônia
 - 💻 Estou estudando HTLM, CSS, JS, C#, Java, DataBases e Redes Computacionais. 
 - 📫 Você pode me contatar em: bruna.davilla42@gmail.com
 - 💬 Estou em busca de aperfeiçoar meu inglês e aprender espanhol.
