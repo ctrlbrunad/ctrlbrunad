@@ -1,8 +1,8 @@
 # ✨ Sobre mim ✨
 
-- 🖥️ Graduanda de Sistemas de Informação (8/8).
-- 💼 Atualmente trabalho como Product Owner na Superintêndencia Estadual de Tecnologia e Comunicação de Rondônia
-- 💻 Estou estudando JS, C#, Java, e DataBases. 
+- 🖥️ Graduada em Sistemas de Informação.
+- 💼 Atualmente atuando como Product Owner na Superintêndencia Estadual de Tecnologia e Comunicação de Rondônia
+- 💻 JS, C#/.NET, Node.js, e DataBases. 
 - 📫 Você pode me contatar em: bruna.davilla42@gmail.com
   
 
