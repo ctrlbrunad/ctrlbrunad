@@ -6,8 +6,8 @@
 - 📫 Você pode me contatar em: bruna.davilla42@gmail.com
   
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruna-davila17)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ctrlatlb?igsh=OXltc3dsZGExcHQ1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bruna-davilaa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunadvila)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbrunad&layout=compact&)
