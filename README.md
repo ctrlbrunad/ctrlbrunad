@@ -3,7 +3,7 @@
 - 🖥️ Graduada em Sistemas de Informação.
 - 💼 Atualmente atuando como Product Owner na Superintêndencia Estadual de Tecnologia e Comunicação de Rondônia
 - 💻 JS, C#/.NET, Node.js, e DataBases. 
-- 📫 Você pode me contatar em: bruna.davilla42@gmail.com
+- 📫 Você pode me contatar em: bruna.dev42@gmail.com
   
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bruna-davilaa)
